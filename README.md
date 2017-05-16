@@ -1,5 +1,5 @@
 # vcfHeaderHckr
-For vcf header INFO to have the right type
+Force vcf header INFO to have user specified number and type
 
 Are you a fan of vcfanno and gemini, but can't get gemini to include your INFO columns b/c the header INFO Number and Type are screwed up? This is the solution. Replace unlimited INFO Numbers and Types using vcfHeaddrHckr.py.
 
